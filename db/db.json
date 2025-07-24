@@ -1,5 +1,11 @@
 {
-  "users": [],
+  "users": [
+    {
+      "email": "rn@gmail.com",
+      "password": "147258369",
+      "id": 1
+    }
+  ],
   "games": [
     {
       "id": "452",
@@ -95,91 +101,91 @@
       "id": "462",
       "title": "Fortnite",
       "genre": "Battle Royale",
-     "platform": "PC (Windows)",
-     "thumbnail": "https://www.freetogame.com/games/logo/fortnite.png",
-     "short_description": "A free-to-play battle royale game with building mechanics.",
-    "release_date": "2017-07-21"
-   },
-   {
-     "id": 463,
-     "title": "Apex Legends",
-     "genre": "Battle Royale",
-     "platform": "PC (Windows)",
-     "thumbnail": "https://www.freetogame.com/games/logo/apex-legends.png",
-     "short_description": "A squad-based battle royale shooter from Respawn.",
-     "release_date": "2019-02-04"
-   },
-   {
-     "id": 464,
-     "title": "Warframe",
-     "genre": "Action",
-     "platform": "PC (Windows)",
-     "thumbnail": "https://www.freetogame.com/games/logo/warframe.png",
-     "short_description": "A cooperative third-person shooter with fast-paced combat.",
-     "release_date": "2013-03-25"
+      "platform": "PC (Windows)",
+      "thumbnail": "https://www.freetogame.com/games/logo/fortnite.png",
+      "short_description": "A free-to-play battle royale game with building mechanics.",
+      "release_date": "2017-07-21"
     },
     {
-     "id": 465,
-     "title": "Smite",
-     "genre": "MOBA",
-     "platform": "PC (Windows)",
-     "thumbnail": "https://www.freetogame.com/games/logo/smite.png",
-     "short_description": "A third-person multiplayer online battle arena game.",
-     "release_date": "2014-03-25"
+      "id": 463,
+      "title": "Apex Legends",
+      "genre": "Battle Royale",
+      "platform": "PC (Windows)",
+      "thumbnail": "https://www.freetogame.com/games/logo/apex-legends.png",
+      "short_description": "A squad-based battle royale shooter from Respawn.",
+      "release_date": "2019-02-04"
     },
     {
-     "id": 466,
-     "title": "Destiny 2",
-     "genre": "MMOFPS",
-     "platform": "PC (Windows)",
-     "thumbnail": "https://www.freetogame.com/games/logo/destiny-2.png",
-    "short_description": "A multiplayer first-person shooter with RPG elements.",
-     "release_date": "2017-10-24"
+      "id": 464,
+      "title": "Warframe",
+      "genre": "Action",
+      "platform": "PC (Windows)",
+      "thumbnail": "https://www.freetogame.com/games/logo/warframe.png",
+      "short_description": "A cooperative third-person shooter with fast-paced combat.",
+      "release_date": "2013-03-25"
     },
     {
-     "id": 467,
-     "title": "Team Fortress 2",
-     "genre": "Shooter",
-     "platform": "PC (Windows)",
-     "thumbnail": "https://www.freetogame.com/games/logo/team-fortress-2.png",
-     "short_description": "A classic team-based multiplayer shooter.",
-     "release_date": "2007-10-10"
+      "id": 465,
+      "title": "Smite",
+      "genre": "MOBA",
+      "platform": "PC (Windows)",
+      "thumbnail": "https://www.freetogame.com/games/logo/smite.png",
+      "short_description": "A third-person multiplayer online battle arena game.",
+      "release_date": "2014-03-25"
     },
     {
-     "id": 468,
-     "title": "Path of Exile",
-     "genre": "Action RPG",
-     "platform": "PC (Windows)",
-     "thumbnail": "https://www.freetogame.com/games/logo/path-of-exile.png",
-    "short_description": "A dark fantasy action RPG with deep skill trees.",
-    "release_date": "2013-10-23"
+      "id": 466,
+      "title": "Destiny 2",
+      "genre": "MMOFPS",
+      "platform": "PC (Windows)",
+      "thumbnail": "https://www.freetogame.com/games/logo/destiny-2.png",
+      "short_description": "A multiplayer first-person shooter with RPG elements.",
+      "release_date": "2017-10-24"
     },
     {
-     "id": 469,
-     "title": "League of Legends",
-     "genre": "MOBA",
-     "platform": "PC (Windows)",
-     "thumbnail": "https://www.freetogame.com/games/logo/league-of-legends.png",
-     "short_description": "A team-based strategy game where two teams battle to destroy the other’s base.",
-     "release_date": "2009-10-27"
+      "id": 467,
+      "title": "Team Fortress 2",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "thumbnail": "https://www.freetogame.com/games/logo/team-fortress-2.png",
+      "short_description": "A classic team-based multiplayer shooter.",
+      "release_date": "2007-10-10"
     },
     {
-     "id": 470,
-     "title": "Runescape",
-     "genre": "MMORPG",
-     "platform": "PC (Windows)",
-     "thumbnail": "https://www.freetogame.com/games/logo/runescape.png",
-     "short_description": "A long-running fantasy MMORPG with extensive skills and quests.",
-     "release_date": "2001-01-04"
+      "id": 468,
+      "title": "Path of Exile",
+      "genre": "Action RPG",
+      "platform": "PC (Windows)",
+      "thumbnail": "https://www.freetogame.com/games/logo/path-of-exile.png",
+      "short_description": "A dark fantasy action RPG with deep skill trees.",
+      "release_date": "2013-10-23"
     },
     {
-     "id": 471,
-     "title": "Counter-Strike: GO",
-     "genre": "Shooter",
-     "platform": "PC (Windows)",
-     "thumbnail": "https://www.freetogame.com/games/logo/csgo.png",
-     "short_description": "A competitive first-person shooter featuring team-based gameplay.",
-     "release_date": "2012-08-21"
+      "id": 469,
+      "title": "League of Legends",
+      "genre": "MOBA",
+      "platform": "PC (Windows)",
+      "thumbnail": "https://www.freetogame.com/games/logo/league-of-legends.png",
+      "short_description": "A team-based strategy game where two teams battle to destroy the other’s base.",
+      "release_date": "2009-10-27"
+    },
+    {
+      "id": 470,
+      "title": "Runescape",
+      "genre": "MMORPG",
+      "platform": "PC (Windows)",
+      "thumbnail": "https://www.freetogame.com/games/logo/runescape.png",
+      "short_description": "A long-running fantasy MMORPG with extensive skills and quests.",
+      "release_date": "2001-01-04"
+    },
+    {
+      "id": 471,
+      "title": "Counter-Strike: GO",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "thumbnail": "https://www.freetogame.com/games/logo/csgo.png",
+      "short_description": "A competitive first-person shooter featuring team-based gameplay.",
+      "release_date": "2012-08-21"
     }
   ],
   "favorites": []
