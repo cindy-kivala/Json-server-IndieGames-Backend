@@ -1,9 +1,29 @@
 {
   "users": [
     {
-      "email": "rn@gmail.com",
+      "email": "ryan@gmail.com",
       "password": "147258369",
       "id": 1
+    },
+    {
+      "email": "mustgo@gmail.com",
+      "password": "147258369",
+      "id": 2
+    },
+    {
+      "email": "me@gmail.com",
+      "password": "eerereeererer",
+      "id": 3
+    },
+    {
+      "email": "lol@gmail.com",
+      "password": "147258369",
+      "id": 4
+    },
+    {
+      "email": "kkkk@gmail.com",
+      "password": "147258369",
+      "id": 5
     }
   ],
   "games": [
@@ -188,5 +208,12 @@
       "release_date": "2012-08-21"
     }
   ],
-  "favorites": []
+  "favorites": [
+    {
+      "title": "",
+      "genre": "",
+      "platform": "",
+      "id": 1
+    }
+  ]
 }
