@@ -4,6 +4,16 @@
       "email": "rn@gmail.com",
       "password": "147258369",
       "id": 1
+    },
+    {
+      "email": "cee@gmail.com",
+      "password": "868686",
+      "id": 2
+    },
+    {
+      "email": "wambo@gmail.com",
+      "password": "111111",
+      "id": 3
     }
   ],
   "games": [
@@ -188,6 +198,24 @@
       "release_date": "2012-08-21"
     }
   ],
-  "favorites": []
+  "favorites": [
+    {
+      "id": "457",
+      "title": "Dauntless",
+      "genre": "MMORPG",
+      "platform": "PC (Windows)",
+      "thumbnail": "https://www.freetogame.com/g/457/thumbnail.jpg",
+      "short_description": "A free-to-play, co-op action RPG with gameplay similar to Monster Hunter.",
+      "release_date": "2019-05-21"
+    },
+    {
+      "id": "459",
+      "title": "Marvel Rivals",
+      "genre": "Shooter",
+      "platform": "PC (Windows)",
+      "thumbnail": "https://www.freetogame.com/g/459/thumbnail.jpg",
+      "short_description": "A free-to-play superhero team shooter from NetEase.",
+      "release_date": "2023-08-15"
+    }
+  ]
 }
-
